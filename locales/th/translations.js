@@ -1,0 +1,26 @@
+const th = {
+  social: 'โซเชียล',
+  home: 'หน้าแรก',
+  anouncement: 'ประกาศ',
+  settings: 'การตั้งค่า',
+  payments: 'แจ้งเตือนค่าใช้จ่าย',
+  parcels: 'พัสดุ',
+  facility: 'จองส่วนกลาง',
+  rooms: 'ห้องของฉัน',
+  phoneBook: 'สมุดโทรศัพท์',
+  property: 'ติดต่อนิติ',
+  privileges: 'สิทธิพิเศษ',
+  personalInformation: 'ข้อมูลส่วนตัว',
+  markAsRead: 'ล้างการแจ้งเตือน',
+  notifications: 'การแจ้งเตือน',
+  appUsage: 'การใช้งาน',
+  FAQ: 'คำถามที่พบบ่อย',
+  languages: 'ภาษา',
+  privacyPolicy: 'นโยบายความเป็นส่วนตัว',
+  terms: 'เงื่อนไขการใช้บริการ',
+  suggestion: 'ข้อเสนอแนะ',
+  contactUs: 'ติดต่อ Urbanice',
+  logout: 'ออกจากระบบ',
+};
+
+export default th;

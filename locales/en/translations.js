@@ -1,0 +1,26 @@
+const en = {
+  social: 'Social',
+  home: 'Home',
+  anouncement: 'Anouncement',
+  settings: 'Settings',
+  payments: 'Payment Reminder',
+  parcels: 'Parcels',
+  facility: 'Facility Booking',
+  rooms: 'My Unit',
+  phoneBook: 'Phone Book',
+  property: 'Property Management',
+  privileges: 'Privileges',
+  personalInformation: 'Personal Information',
+  markAsRead: 'Mark as Read',
+  notifications: 'Notifications',
+  appUsage: 'App Usage',
+  FAQ: 'FAQ',
+  languages: 'Languages',
+  privacyPolicy: 'Privacy Policy',
+  terms: 'Terms of Srvice',
+  suggestion: 'Suggestion',
+  contactUs: 'Contact Urbanice',
+  logout: 'Log out',
+};
+
+export default en;
